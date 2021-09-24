@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.collection.InverseReduceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-15T01:43:53" hostname="DESKTOP-OQ6GLMA" time="0.092">
+  <properties/>
+  <testcase name="should_be_divided_to_smaller_number" classname="com.thoughtworks.collection.InverseReduceTest" time="0.092"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
